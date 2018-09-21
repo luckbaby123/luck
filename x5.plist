@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://luckbaby123.github.io/luck/ceshi5.ipa</string>
+					<string>https://luckbaby123.github.io/luck/yz.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>io.dcloud.H5400DD5E</string>
+				<string>com.agile.gaeasale</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
